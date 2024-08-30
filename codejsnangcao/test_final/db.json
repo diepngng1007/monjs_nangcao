@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "name": "Product 2",
+      "image": "https://picsum.photos/120/200",
+      "price": "10000",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "https://picsum.photos/120/200",
+      "price": "300"
+    },
+    {
+      "name": "bánh dâu",
+      "image": "https://picsum.photos/150/200",
+      "price": "12222222",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "image": "https://picsum.photos/150/200",
+      "price": "34555555",
+      "id": 5
+    },
+    {
+      "name": "bánh dâu",
+      "image": "https://picsum.photos/150/200",
+      "price": "11111",
+      "id": 6
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@example.com",
+      "role": "AD"
+    },
+    {
+      "id": 2,
+      "username": "diepnguyen",
+      "password": "12345",
+      "email": "admin@example.com",
+      "role": "US"
+    },
+    {
+      "username": "diep",
+      "password": "abc123",
+      "email": "diepnnph30666@fpt.edu.vn",
+      "rolesInput": "US",
+      "id": 3
+    },
+    {
+      "username": "vando",
+      "password": "abc123",
+      "email": "q.duoc5@gmail.com",
+      "rolesInput": "US",
+      "id": 4
+    },
+    {
+      "username": "vando",
+      "password": "abc123",
+      "email": "q.duoc5@gmail.com",
+      "rolesInput": "US",
+      "id": 5
+    }
+  ]
+}

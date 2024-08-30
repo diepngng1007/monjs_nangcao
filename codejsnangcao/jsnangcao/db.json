@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "name": "bánh",
+      "image": "https://picsum.photos/150/200",
+      "price": "1",
+      "id": 10
+    },
+    {
+      "name": "Nguyễn Ngọc Diệp",
+      "image": "https://picsum.photos/150/200",
+      "price": "12000000000",
+      "id": 11
+    },
+    {
+      "name": "abc",
+      "image": "https://picsum.photos/150/200",
+      "price": "12300",
+      "id": 12
+    },
+    {
+      "name": "abc",
+      "image": "https://picsum.photos/150/200",
+      "price": "3450000",
+      "id": 13
+    },
+    {
+      "name": "bánh dâu",
+      "image": "https://picsum.photos/150/200",
+      "price": "1",
+      "id": 16
+    },
+    {
+      "name": "bánh dâu",
+      "image": "https://picsum.photos/150/200",
+      "price": "1",
+      "id": 17
+    },
+    {
+      "name": "Nguyễn Ngọc Diệp",
+      "image": "https://picsum.photos/150/200",
+      "price": "123",
+      "id": 18
+    },
+    {
+      "name": "Conan",
+      "image": "https://picsum.photos/150/200",
+      "price": "111",
+      "id": 21
+    },
+    {
+      "name": "Nguyễn Ngọc Diệp",
+      "image": "https://picsum.photos/150/200",
+      "price": "111",
+      "id": 24
+    }
+  ],
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "123abc",
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "diep",
+      "password": "123456",
+      "email": "diepnnph30666@fpt.edu.vn",
+      "id": 2
+    },
+    {
+      "username": "admin",
+      "password": "123aqbc",
+      "id": 3
+    },
+    {
+      "username": "admin",
+      "password": "123abc",
+      "id": 12
+    }
+  ]
+}

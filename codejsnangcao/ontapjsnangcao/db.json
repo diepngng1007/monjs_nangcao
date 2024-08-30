@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "name": "Product 1",
+      "image": "https://picsum.photos/120/200",
+      "price": "5000",
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "image": "https://picsum.photos/120/200",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "image": "https://picsum.photos/120/200",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Conan",
+      "image": "https://picsum.photos/150/200",
+      "price": "450000",
+      "id": 4
+    }
+  ],
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "12345",
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "diep",
+      "password": "ababab",
+      "email": "diepnnph30666@fpt.edu.vn",
+      "id": 2
+    }
+  ]
+}
